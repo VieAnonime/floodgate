@@ -1,0 +1,23 @@
+Para  começar !
+
+1     - Primeiro, você precisará do script. Script mais recente do Floodgate
+
+1 / 1 - Coloque tudo na raiz do documento do seu site (/ public_html)
+
+
+===========================================================================
+OBS: Você precisará se tornar proprietário de uma torneira, 
+vá para a guia Usuário e se tornar proprietário de uma torneira.
+Na página de visão geral, clique em Suas torneiras no lado esquerdo e crie uma nova torneira. 
+Quando você tiver feito isso, edite as informações de nome, moeda e pagamento e o URL do site. 
+Você deseja clicar nas TABS para PTP e MINING, pois esse é o tipo de torneira que você possui. 
+(se não o fizer, seus usuários serão banidos) Em seguida, 
+role para baixo (ou volte para Minhas torneiras e configurações para esta torneira) para definir os limites de taxa. 
+Deixo tudo em 0,00000001 e cronômetro de 360 ​​minutos, exceto a moeda que você pretende fornecer. 
+Para começar a definir esse nível baixo, caso algo dê errado, você não perde fundos. 
+Você pode editar os limites máximos de envio, nome da torneira e outras informações nesta página, 
+acessando Suas torneiras e depois Configurações a qualquer momento.
+Quando terminar, clique para mostrar sua chave de API (nunca entregue a ninguém) e copie-a, 
+deixe a página aberta ou volte para obter a chave de API mais tarde, quando necessário.
+===========================================================================
+
